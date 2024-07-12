@@ -1,0 +1,26 @@
+Introduction to the data science workflow
+
+1.Understanding the Problem
+> Define the objectives clearly.
+> Determine how to measure the project's success.
+> Identify the problem type (e.g., classification, regression).
+
+2.Gathering Relevant Data
+> Collect data from available sources.
+> Ensure data is relevant to the problem.
+> Consider the volume, variety, velocity,and veracity of the data.
+
+3.Data Preparation & EDA (Exploratory Data Analysis)
+> Clean the data (handle missing values, remove duplicates).
+> Perform exploratory analysis to understand the data.
+> Normalize or scale the data if necessary.
+
+4.Feature Engineering & Feature Extraction
+> Create new features that can help improve model performance.
+> Reduce dimensionality if the feature space is too large.
+> Select the most important features to be used for modeling.
+
+5.Model Building & Deployment
+> Choose appropriate algorithms and train models.
+> Validate model performance using cross-validation.
+> Deploy the model for real-time use or batch processing.
