@@ -1,0 +1,39 @@
+Version Control- Git, Github and Gitlab
+
+Basics of Git
+Key Features: 
+> Snapshot
+> Branches
+> local & remote repositories.
+Basic Commands: git init, git add, git commit, git status
+
+Repository:
+A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history.
+Branch:
+A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process.
+Push:
+The git push command is used to upload local repository content to a remote repository.
+Pull request:
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+merge request:
+A merge request (MR) is a proposal to incorporate changes from a source branch to a target branch.
+Commit:
+A commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash.
+
+Using Git for Project Management:
+> Branch Management
+> Merging and Conflicts
+> Version Tracking
+
+Introduction to Github:
+Key Features: 
+> Pull requests
+> Forks
+> social networking features for developers
+
+Introduction to GitLab:
+> Core Features: 
+> Issue tracking
+> CI/CD pipelines
+> merge requests
+
