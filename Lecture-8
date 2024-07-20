@@ -1,0 +1,19 @@
+Advanced Formulas and Functions
+How to write formula in Excel?
+1. Select the cell
+2.Enter equals sign so excel knows a formula being entered
+3.Using the example of the four times table
+       > In cell E3 type : =A3*c3
+       > Press enter
+4.Select E3 and drag bottom right cornerdown to E12
+5. The formula has been applied to all thse cells
+
+Functions covered:
+> SUM
+> AVERAGE
+> MAX
+> MIN
+> XLOOKUP
+> SUMPRODUCT
+> OFFSET
+> QUERY
